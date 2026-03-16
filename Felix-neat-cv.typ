@@ -273,7 +273,7 @@
 
 
 #entry(
-  date: "Jul 2005 — Jul 2005",
+  date: "Jul 2004 — Jul 2005",
   institution: "Shanghai Fudansoft System Engineering Co., Ltd.",
   title: "Software Engineer",
   location: "Shanghai",
